@@ -1,0 +1,15 @@
+PODS:
+  - KVOController (1.2.0)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - KVOController (~> 1.2.0)
+  - Masonry (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: d170b33cd8d2ef15b6213dbf3b56628cd9fe1e71
+
+COCOAPODS: 1.2.1
